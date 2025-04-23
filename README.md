@@ -1,2 +1,2 @@
 # mapping-components-practice
-Created with CodeSandbox
+Created with CodeSandbox, React practice
